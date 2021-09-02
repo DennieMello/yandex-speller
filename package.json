@@ -4,7 +4,7 @@
     "email": "hcodes@yandex.ru",
     "url": "https://github.com/hcodes"
   },
-  "name": "yandex-speller",
+  "name": "yandex-speller-https",
   "main": "./lib/yandex-speller.js",
   "description": "Yandex Speller API for Node.js",
   "version": "4.1.0",
